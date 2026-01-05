@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'LCD-7-Digital';
+    src: url('digital-7.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.reloj-lcd-label {
+    font-family: 'LCD-7-Digital', monospace !important;
+    font-weight: normal;
+    padding: 2px 14px;
+    border-radius: 8px;
+    font-variant-numeric: tabular-nums;
+}

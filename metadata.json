@@ -1,0 +1,9 @@
+{
+  "name": "Retro LCD 7-Segment Clock",
+  "description": "Vintage digital display with high-fidelity 7-segment font.",
+  "uuid": "relojlcd@carlos",
+  "shell-version": [ "45", "46", "47", "48" ],
+  "url": "https://github.com/corral1976-sudo/gnome-shell-extension-relojlcd",
+  "settings-schema": "org.gnome.shell.extensions.relojlcd",
+  "version": 9
+}

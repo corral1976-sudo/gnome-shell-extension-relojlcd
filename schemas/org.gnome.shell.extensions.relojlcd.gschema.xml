@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.relojlcd" path="/org/gnome/shell/extensions/relojlcd/">
+    <key name="font-size" type="d">
+      <default>1.8</default>
+      <summary>Clock font size</summary>
+    </key>
+    <key name="clock-color" type="s">
+      <default>'green'</default>
+      <summary>Clock display color (green or amber)</summary>
+    </key>
+    <key name="glow-intensity" type="d">
+      <default>5.0</default>
+      <summary>Brightness glow intensity</summary>
+    </key>
+  </schema>
+</schemalist>
