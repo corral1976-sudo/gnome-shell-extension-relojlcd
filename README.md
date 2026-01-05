@@ -1,6 +1,10 @@
+
 # Retro LCD 7-Segment Clock for GNOME Shell
 
 A GNOME Shell extension that adds a vintage-style digital clock to your panel. It features a high-fidelity 7-segment font (Digital-7), customizable colors (Neon Green or Amber), and an adjustable glow effect.
+
+## Preview
+![Extension Preview](preview.png)
 
 ## Features
 
@@ -17,12 +21,6 @@ The easiest way to install is via the [GNOME Extensions website](https://extensi
 ### Manual Installation
 1. Clone this repository.
 2. Copy the folder to `~/.local/share/gnome-shell/extensions/relojlcd@carlos`.
-3. Log out and log back in (or restart GNOME Shell).
-4. Enable the extension using the Extensions app.
-
-## Credits
-- Developed by Carlos Corral.
-- Uses the **Digital-7** font by Sizenko Alexander (Style-7).
-
-## License
-GPL-3.0
+3. Compile the schema (optional but recommended for manual install):
+   ```bash
+   glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
