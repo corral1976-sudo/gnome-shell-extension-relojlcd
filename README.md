@@ -24,3 +24,11 @@ The easiest way to install is via the [GNOME Extensions website](https://extensi
 3. Compile the schema (optional but recommended for manual install):
    ```bash
    glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
+
+   ## Credits
+- Developed by Carlos Corral.
+- Uses the **Digital-7** font by Sizenko Alexander (Style-7).
+
+## License
+GPL-3.0
+
