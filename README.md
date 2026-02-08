@@ -10,10 +10,10 @@ A GNOME Shell extension that adds a vintage-style digital clock to your panel. I
 ## What's New in V15
 - **Dynamic Positioning:** Users can now choose to place the clock on the **Left**, **Center**, or **Right** of the top panel.
 - **Robust Reconstruction:** Improved internal logic that reconstructs the indicator on position changes to ensure stability and visibility.
+- **Clean Package:** Removed unnecessary image files from the distribution package to comply with EGO Review Guidelines.
 - **Extended Compatibility:** Full support for GNOME Shell versions **45, 46, 47, and 48**.
 
 ## Features
-- **Iconic Branding:** Includes a custom retro-style icon for the GNOME Extensions manager.
 - **Realistic LCD Look:** High-fidelity `Digital-7` font with an adjustable glow effect.
 - **Customizable:** Real-time adjustments for font size, glow intensity, and color themes (Neon Green / Amber).
 - **Dynamic Date:** Click the clock to reveal the current date in the drop-down menu.
@@ -27,8 +27,7 @@ The easiest way to install is via the [GNOME Extensions website](https://extensi
 ### Manual Installation (Pre-release Testing)
 1. Clone this repository.
 2. Copy the folder to `~/.local/share/gnome-shell/extensions/relojlcd@carlos`.
-3. Ensure the `icon.png` is in the root folder for the icon to appear in your settings.
-4. **Compile the schema** (Required for the new positioning feature):
+3. **Compile the schema** (Required for the new positioning feature):
 ```bash
 glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
 
