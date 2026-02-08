@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/retrolcdclock)
 
-A GNOME Shell extension that adds a vintage-style digital clock to your panel. It features a high-fidelity 7-segment font (Digital-7), customizable colors (Neon Green or Amber), and an adjustable glow effect.
+A GNOME Shell extension that adds a vintage-style digital clock to your panel. It features a high-fidelity 7-segment font (Digital-7) with fully customizable positioning (Left, Center, or Right), adjustable sizes, classic colors (Neon Green or Amber), and a realistic glow effect.
 
 ## Preview
 ![Extension Preview](preview.png)
