@@ -1,4 +1,4 @@
-# Retro LCD 7-Segment Clock (V15)
+# Retro LCD 7-Segment Clock (V15).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/retrolcdclock)
 
