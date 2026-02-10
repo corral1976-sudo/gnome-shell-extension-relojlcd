@@ -1,10 +1,14 @@
-# 🕒 Retro LCD 7-Segment Clock
+# 📟 Retro LCD 7-Segment Clock
 
 <p align="center">
   <a href="https://ko-fi.com/retrolcdclock">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="38" />
   </a>
 </p>
+
+### A vintage-style digital clock for your GNOME panel. High-fidelity 7-segment display with total customization.
+
+---
 
 # 🌟 Main Features
 
@@ -39,6 +43,7 @@ cp -r gnome-shell-extension-relojlcd ~/.local/share/gnome-shell/extensions/reloj
 # Compile the schema
 glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
 
+Restart GNOME Shell after installation (Alt+F2 + r, or Log out).
 🛠️ Compatibility & Specs
 
     GNOME Shell: 45, 46, 47, and 48.
