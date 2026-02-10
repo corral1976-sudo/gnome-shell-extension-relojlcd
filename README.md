@@ -46,3 +46,35 @@ cp -r gnome-shell-extension-relojlcd ~/.local/share/gnome-shell/extensions/reloj
 
 # Compile the schema
 glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
+
+Note: Restart GNOME Shell after installation (Alt+F2 + r, or Log out).
+🛠️ Compatibility & Specs
+
+    GNOME Shell: 45, 46, 47, and 48.
+
+    Backend: GObject Introspection, GStreamer 1.0.
+
+    Rendering: CSS3 + St (Shell Toolkit).
+
+🤝 Credits & Licenses
+
+This project is built with respect for the creators of the open-source assets used.
+🔊 Audio Assets
+
+    Alarm Sound: Watch Alarm Beep SFX by Pixabay.
+
+    License: Pixabay Content License.
+
+    Modifications: Technically edited and re-encoded for seamless gapless looping in the GNOME environment.
+
+🔡 Typography
+
+    Font: Digital-7 by Sizenko Alexander (Style-7).
+
+    License: Freeware for personal use.
+
+⚖️ Code License
+
+This extension is released under the GPL-3.0 License.
+
+Developed with ❤️ by Carlos Corral
