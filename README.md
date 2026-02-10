@@ -49,18 +49,24 @@ Restart GNOME Shell after installation (Alt+F2 + r, or Log out).
     GNOME Shell: 45, 46, 47, and 48.
 
     ---
+---
+
 ## 🤝 Credits & Licenses
 
-This project is built with respect for the authors of the assets used:
+This project is built with respect for the creators of the open-source assets used.
 
-### 🔊 Sound Effects
-- **Alarm Sound:** [Watch Alarm Beep SFX](https://pixabay.com/sound-effects/watch-alarm-beep-sfx-240649/) by **Pixabay**.
-- **License:** Used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
+### 🔊 Audio Assets
+* **Alarm Sound:** [Watch Alarm Beep SFX](https://pixabay.com/sound-effects/watch-alarm-beep-sfx-240649/) by **Pixabay**.
+* **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/).
+* **Modifications:** Technically edited and re-encoded for seamless gapless looping in the GNOME environment.
 
 ### 🔡 Typography
-- **Font:** [Digital-7](http://www.styleseven.com/) by **Sizenko Alexander** (Style-7).
-- **License:** Freeware for personal, non-commercial use.
+* **Font:** [Digital-7](http://www.styleseven.com/) by **Sizenko Alexander** (Style-7).
+* **License:** Freeware for personal use.
 
-    License: GPL-3.0.
+### ⚖️ Code License
+This extension is released under the **GPL-3.0 License**.
 
-Developed by Carlos Corral
+---
+
+**Developed with ❤️ by Carlos Corral**
