@@ -48,7 +48,18 @@ Restart GNOME Shell after installation (Alt+F2 + r, or Log out).
 
     GNOME Shell: 45, 46, 47, and 48.
 
-    Font: Digital-7 by Sizenko Alexander.
+    ---
+## 🤝 Credits & Licenses
+
+This project is built with respect for the authors of the assets used:
+
+### 🔊 Sound Effects
+- **Alarm Sound:** [Watch Alarm Beep SFX](https://pixabay.com/sound-effects/watch-alarm-beep-sfx-240649/) by **Pixabay**.
+- **License:** Used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
+
+### 🔡 Typography
+- **Font:** [Digital-7](http://www.styleseven.com/) by **Sizenko Alexander** (Style-7).
+- **License:** Freeware for personal, non-commercial use.
 
     License: GPL-3.0.
 
