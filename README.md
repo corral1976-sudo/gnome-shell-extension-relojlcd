@@ -28,6 +28,7 @@ Bash
 
 # Clone the repo and copy to extensions folder
 git clone https://github.com/corral1976-sudo/gnome-shell-extension-relojlcd.git
+
 cp -r gnome-shell-extension-relojlcd ~/.local/share/gnome-shell/extensions/relojlcd@carlos
 
 # Compile the schema
