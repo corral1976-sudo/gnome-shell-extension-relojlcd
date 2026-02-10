@@ -18,7 +18,14 @@ A vintage-style digital clock for your GNOME panel. High-fidelity 7-segment disp
 
     📏 Full Scaling: Adjust font size and 12h/24h formats in real-time.
 
-📸 Preview
+## 📸 Preview
+
+<p align="center">
+  <img src="preview.png" alt="Retro LCD Clock Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>
+
+---
+
 🚀 Installation
 1. From GNOME Extensions
 
