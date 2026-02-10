@@ -12,8 +12,10 @@
 
 # 🌟 Main Features
 
-* **🕹️ Authentic LCD Styles:** Neon Green, Vintage Amber, and the new **Retro Gray** (Casio-style).
-* **✨ Realistic Glow:** Adjustable glow intensity for Neons and shadow depth for the Gray LCD mode.
+* **🕹️ Authentic LCD Styles:** Neon Green, Vintage Amber, and the classic **Retro Gray** (Casio-style).
+* **✨ Realistic Glow:** Adjustable glow intensity for Neons and shadow depth for the **Gray LCD mode**.
+* **🔔 Integrated Alarm:** Set custom alarms with a vintage beep sound and visual blinking notification.
+* **🎵 Seamless Audio:** High-performance alarm looping powered by GStreamer for a smooth experience.
 * **📍 Dynamic Positioning:** Place it on the **Left**, **Center**, or **Right** of your panel.
 * **🖱️ Quick Settings:** Open the configuration panel with just one click on the clock.
 * **📏 Full Scaling:** Adjust font size and 12h/24h formats in real-time.
@@ -36,37 +38,11 @@ The easiest way is through the official [GNOME Extensions Store](https://extensi
 ### 2. Manual (For Developers)
 
 ```bash
-# Clone the repo and copy to extensions folder
+# Clone the repo
 git clone [https://github.com/corral1976-sudo/gnome-shell-extension-relojlcd.git](https://github.com/corral1976-sudo/gnome-shell-extension-relojlcd.git)
+
+# Copy to extensions folder
 cp -r gnome-shell-extension-relojlcd ~/.local/share/gnome-shell/extensions/relojlcd@carlos
 
 # Compile the schema
 glib-compile-schemas ~/.local/share/gnome-shell/extensions/relojlcd@carlos/schemas/
-
-Restart GNOME Shell after installation (Alt+F2 + r, or Log out).
-🛠️ Compatibility & Specs
-
-    GNOME Shell: 45, 46, 47, and 48.
-
-    ---
----
-
-## 🤝 Credits & Licenses
-
-This project is built with respect for the creators of the open-source assets used.
-
-### 🔊 Audio Assets
-* **Alarm Sound:** [Watch Alarm Beep SFX](https://pixabay.com/sound-effects/watch-alarm-beep-sfx-240649/) by **Pixabay**.
-* **License:** [Pixabay Content License](https://pixabay.com/service/license-summary/).
-* **Modifications:** Technically edited and re-encoded for seamless gapless looping in the GNOME environment.
-
-### 🔡 Typography
-* **Font:** [Digital-7](http://www.styleseven.com/) by **Sizenko Alexander** (Style-7).
-* **License:** Freeware for personal use.
-
-### ⚖️ Code License
-This extension is released under the **GPL-3.0 License**.
-
----
-
-**Developed with ❤️ by Carlos Corral**
