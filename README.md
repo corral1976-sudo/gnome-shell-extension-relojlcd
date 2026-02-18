@@ -1,4 +1,4 @@
-# 📟 Retro LCD 7-Segment Clock
+[# 📟 Retro LCD 7-Segment Clock
 
 <p align="center">
   <a href="https://ko-fi.com/retrolcdclock">
@@ -33,7 +33,7 @@
 # 🚀 Installation
 
 ### 1. From GNOME Extensions
-The easiest way is through the official [GNOME Extensions Store](https://extensions.gnome.org/extension/6910/relojlcd/).
+The easiest way is through the official [GNOME Extensions Store](https:https://extensions.gnome.org/extension/9082/reloj-retro-lcd/).
 
 ### 2. Manual (For Developers)
 
@@ -78,3 +78,4 @@ This project is built with respect for the creators of the open-source assets us
 This extension is released under the GPL-3.0 License.
 
 Developed with ❤️ by Carlos Corral
+](https://extensions.gnome.org/extension/6323/relojlcd/)
