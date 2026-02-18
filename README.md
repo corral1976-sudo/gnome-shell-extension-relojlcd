@@ -78,4 +78,4 @@ This project is built with respect for the creators of the open-source assets us
 This extension is released under the GPL-3.0 License.
 
 Developed with ❤️ by Carlos Corral
-(https://extensions.gnome.org/extension/6323/relojlcd/)
+(https://extensions.gnome.org/extension/9082/reloj-retro-lcd/)
