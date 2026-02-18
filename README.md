@@ -1,4 +1,4 @@
-[# 📟 Retro LCD 7-Segment Clock
+# 📟 Retro LCD 7-Segment Clock
 
 <p align="center">
   <a href="https://ko-fi.com/retrolcdclock">
